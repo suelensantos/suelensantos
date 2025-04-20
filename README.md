@@ -1,5 +1,5 @@
-<h2> ✨ Hi, I'm Suelen Santos! <img src="https://media.giphy.com/media/I1yVRt6aBQMeVkSS6z/giphy.gif" width="40"></h2>
-<p> [React | JavaScript | Python| TypeScript | Node.js | HTML | CSS | Tailwind CSS] <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35" align="top"></p>
+<h2> ✨ Hi, I'm Suelen Santos! <img src="https://media.giphy.com/media/I1yVRt6aBQMeVkSS6z/giphy.gif" width="50"></h2>
+<p> [React | JavaScript | Python | TypeScript | Node.js | HTML | CSS | Tailwind CSS] <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35" align="top"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suelenr-santos/)](https://www.linkedin.com/in/suelenr-santos/)
 
