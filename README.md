@@ -9,7 +9,8 @@
 - 🎓 Master's degree in Computational Sciences
 - 🎓 Bachelor's degree in Computer Science
 - 🌐 Always curious about web development and AI
-- 🚀 Driven by challenges and loves clean, well-structured code
+- 💫 Love clean, well-structured code
+- 🚀 Driven by challenges
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suelensantos&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="suelensantos"/>
