@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="270" align="right">
 
-- 👩‍💻 Software Developer at _[Geoflow Sistemas](https://geoflow.com.br/)_
+- 👩‍💻 Full Stack Developer | Software Developer
 - 🎓 Master's degree in Computational Sciences
 - 🎓 Bachelor's degree in Computer Science
 - 🌐 Always curious about web development and AI
